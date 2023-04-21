@@ -5,3 +5,4 @@ pushの練習
 pushの練習２
 pushの練習３
 push42
+push2222
