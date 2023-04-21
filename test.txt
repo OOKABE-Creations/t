@@ -4,3 +4,4 @@ test
 pushの練習
 pushの練習２
 pushの練習３
+push4
