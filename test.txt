@@ -2,3 +2,4 @@ test
 test
 
 pushの練習
+pushの練習２
